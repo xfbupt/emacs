@@ -1,0 +1,114 @@
+sudo emacsclient /etc/hosts
+sudo emacs /etc/hosts
+l
+ls
+cd Downloads/
+l
+ls
+cd ~/.emacs.d/
+l
+ls
+cd elpa
+l
+ls
+cd ace-jump-mode-20140616.115/
+l
+d ..
+l
+cd ..
+l
+l
+ls
+man alise
+man alia
+man alias
+man alias
+vi .profile
+l
+l
+cd ..
+l
+cd .
+cd ..
+l
+setxkbmap -option caps:ctrl_modifier
+l
+ls
+cd Downloads/
+l
+l
+l
+exit
+ls
+l
+cd Downloads/
+l
+setxkbmap -option caps:ctrl_modifier
+l
+ls
+cd Public/
+l
+dir
+l
+ls
+cd ..
+l
+cd Documents/
+l
+cd ..
+l
+l
+l
+cd Downloads/
+l
+tar -zvxf ideaIU-14.0.2.tar.gz 
+l
+mv -r ideaIU-14.0.2.tar.gz  ../Program/
+mv -R ideaIU-14.0.2.tar.gz  ../Program/
+mv -r idea-IU-139.659.2  ../Program/
+man mv
+mv  idea-IU-139.659.2  ../Program/
+l
+cd ../Program/
+l
+cd idea-IU-139.659.2/
+l
+more build.txt 
+cd bin
+l
+./idea.sh 
+ls
+setxkbmap -option caps:ctrl_modifier
+ls
+l
+cd git
+l
+git status
+l
+git add readme.txt 
+git commit -m "this is a test"
+cd ../Downloads/
+l
+cd stardict/
+l
+man mv
+l
+sudo mv stardict-cedict-gb-2.4.2 /usr/share/stardict/dic/
+l
+sudo mv stardict-cedict-gb-2.4.2/ stardict-langdao-ce-gb-2.4.2/ /usr/share/stardict/dic/
+git config --golbal user.name "f_xia"
+git config --global user.name "f_xia"
+git config --global user.email "xfbupt@163.com"
+git config --global core.editor emacs
+git config --list
+git help config
+cd git
+l
+git add read*
+git commit -m "test"
+l
+ifconfig
+pwd
+service ssh start
+sudo /etc/init.d/ssh start
+git diff --stage
