@@ -167,8 +167,10 @@
 (setq view-calendar-holidays-initially nil)   ; 不显示节日列表
 (global-set-key (kbd "<f11>") 'calendar)
 
+
 (global-set-key [f1] 'manual-entry)
 (global-set-key [C-f1] 'info )
+
 ;;tabbar
 ;;(load-file "~/.emacs.d/tabbar.el")
 (add-to-list 'load-path "~/.emacs.d/elpa/tabbar-20141109.143")
